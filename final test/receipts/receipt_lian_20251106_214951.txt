@@ -1,0 +1,21 @@
+------------------------------------------------------------
+                     KL HOTEL
+             Davao City, Philippines
+         Tel: 09096965237  Email: daveyjameskhee@gmail.com
+------------------------------------------------------------
+Date Issued: November 06, 2025
+Guest Name: 1\
+Username: lian
+Room Type: Standard
+Nights Stayed: 1
+Check-In: November 06, 2025 09:49 PM
+Check-Out: November 07, 2025 09:49 PM
+Discount Applied: 35%
+Tax (12%): P27.30
+TOTAL DUE: P254.80
+Payment Method: Cash
+Payment Status: Paid
+Details: Cash: P300.0 | Change: P45.19999999999999
+------------------------------------------------------------
+    THANK YOU FOR STAYING AT KL HOTEL!
+------------------------------------------------------------

@@ -1,0 +1,3 @@
+Standard,350.0,5
+Suite,550.0,3
+Deluxe,750.0,4

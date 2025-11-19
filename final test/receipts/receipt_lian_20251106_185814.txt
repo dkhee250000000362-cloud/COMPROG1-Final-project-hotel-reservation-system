@@ -1,0 +1,19 @@
+=====================================
+          KL HOTEL RECEIPT
+=====================================
+Date: Thu Nov 06 18:58:14 GMT+08:00 2025
+Guest Name: lian
+Username: lian
+Room Type: Standard
+Days: 1
+Check-In: November 06, 2025 06:58 PM
+Check-Out: November 07, 2025 06:58 PM
+Tax (12%): P31.50
+Discount Applied: 25%
+Total Amount: P294.00
+Payment Method: Cash
+Payment Status: Paid
+Details: Cash: P300.0 | Change: P6.0
+=====================================
+   THANK YOU FOR STAYING WITH US!   
+=====================================

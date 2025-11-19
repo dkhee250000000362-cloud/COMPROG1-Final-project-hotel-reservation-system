@@ -1,0 +1,25 @@
+------------------------------------------------------------
+                     KL HOTEL
+          Davao City, Philippines
+     Tel: 09096965237  Email: daveyjameskhee@gmail.com
+------------------------------------------------------------
+RECEIPT #: R-20251106-201526
+Date Issued: November 06, 2025 08:15 PM
+
+Guest Name: 1
+Room Type: Standard
+Nights Stayed: 1
+Room Rate (per night): P277.55
+------------------------------------------------------------
+Subtotal: P350.00
+Service Charge (10%): P35.00
+Tax (12%): P42.00
+Discount Applied: 35%
+------------------------------------------------------------
+TOTAL DUE: P277.55
+Payment Method: Cash
+Details: Cash: P300.0
+------------------------------------------------------------
+Clerk: lian
+Thank you for staying with KL Hotel!
+------------------------------------------------------------

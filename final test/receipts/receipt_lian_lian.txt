@@ -1,0 +1,17 @@
+=====================================
+          KL HOTEL RECEIPT
+=====================================
+Guest Name: lian
+Username: lian
+Room Type: Deluxe
+Days: 2
+Check-In: November 06, 2025 06:30 PM
+Check-Out: November 08, 2025 06:30 PM
+Discount Applied: 40%
+Total Amount: ₱900.00
+Payment Method: Credit Card
+Payment Status: Paid
+Details: Card: 222222222222
+=====================================
+THANK YOU FOR STAYING WITH US!
+=====================================
